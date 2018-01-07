@@ -6,4 +6,5 @@ class Dog
   snoopy
   lassie = Dog.new
   lassie
+  
 end
